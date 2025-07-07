@@ -1,16 +1,1 @@
-Activity
-smoking
-BMI
-Age at DM diagnosis
-CHO
-uric acid
-creatinine
-Hba1c
-Sodium
-Caffeine
-Sleep-disorder
-HDL
-RBC
-Alchol
-Gender
-Age
+
