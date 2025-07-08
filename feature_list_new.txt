@@ -1,0 +1,12 @@
+Activity
+smoking
+BMI
+CHO
+uric acid
+Hba1c
+Sodium
+Sleep-disorder
+HDL
+Alchol
+Gender
+Age
