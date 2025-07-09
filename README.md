@@ -16,7 +16,7 @@
 
 ## 快速开始
 
-###克隆项目
+### 克隆项目
 
 ```bash
 git clone https://github.com/your-username/osteoporosis-predictor.git
